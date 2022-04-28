@@ -57,9 +57,50 @@ R130 V25 B70
 https://cdn.jsdelivr.net/gh/LorraineLenoir/nlfdj/nlfdj/orange.png
 
 
+
+
+
+*/
+
+
+/* 
+
+
+https://www.youtube.com/watch?v=xeNjM3miO7k&ab_channel=Grafikart.fr
+
+Compatibilité des clients mails
 https://www.campaignmonitor.com/css
 
+Envoyer mail html pour tester
+https://putsmail.com/tests/new
 
+Image de fond et boutons avec un systeme de vecteur
 https://backgrounds.cm/
+
+
+
+1. structure
+
+doctype
+xhtml1
+
+balise html, head, body
+
+on rajoute un def sur la balise html
+<html xmlns:v="urn:schemas-microsoft-com:vml">
+
+2balises meta
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+
+maximul-scale permet de faire du responsive ensuite
+
+on doit utiliser les tableaux
+on définit quelques propriétés directement dans la table
+
+8min image de fond vers avec
+https://backgrounds.cm/
+
+
 
 */
