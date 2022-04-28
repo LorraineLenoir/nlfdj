@@ -3,7 +3,8 @@ p {
 }
 
 .bleuFdj {
-    color: rgb(40, 45, 255);
+    color: rgb(40, 45, 135);
+    color: #282d87;
 }
 
 .blanc {
@@ -16,10 +17,12 @@ p {
 
 .bleuCiel {
     color: rgb(0, 185, 255);
+    color: #00b9ff;
 }
 
 .rougeChic {
     color: rgb(130, 25, 70);
+    color: #821946;
 }
 
 
@@ -47,4 +50,9 @@ R0 V185 B255
 Rouge chic
 R130 V25 B70
 
+
+https://www.campaignmonitor.com/css
+
+
+https://backgrounds.cm/
 */
