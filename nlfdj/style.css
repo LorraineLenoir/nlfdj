@@ -1,0 +1,50 @@
+p {
+    background-color: rgb(255, 0, 0);
+}
+
+.bleuFdj {
+    color: rgb(40, 45, 255);
+}
+
+.blanc {
+    color: rgb(255, 255, 255);
+}
+
+.rougeFrancais {
+    color: rgb(240, 10, 10);
+}
+
+.bleuCiel {
+    color: rgb(0, 185, 255);
+}
+
+.rougeChic {
+    color: rgb(130, 25, 70);
+}
+
+
+/* 
+Voici le lien vers lequel l'encadré de l'article 2 renvoie
+https://business.ladn.eu/experts-metiers/tech-for-business/quels-sont-les-futurs-metiers-du-metavers/
+
+
+Times New Roman pour le titre
+Typo - verdana pour le texte
+
+
+bleu fdj
+R40 V45 B135
+
+Blanc
+R255 V255 B255
+
+Rouge francais
+R240 V10 B10
+
+Bleu ciel
+R0 V185 B255
+
+Rouge chic
+R130 V25 B70
+
+*/
