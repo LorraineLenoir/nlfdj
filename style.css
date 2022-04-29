@@ -103,4 +103,57 @@ https://backgrounds.cm/
 
 
 
+2. logo centré et espacé par rapport au haut
+10min50
+
+pour avoir quelque chose de centré, on recrée un tableau dans le tableau à chaque fois avec une largeur fixée en %
+au niveau de la table on met align="center"
+
+ne pas oublier les tbody avant les tr
+
+
+pour créer des espaces, on crée un td avec un espace et height, font-size, line-height
+
+13min
+pour insérer le logo, balise a puis img
+img : on précise width border=0 et alt
+
+pour centrer on met au niveau td un style = "text-align:center"
+
+15min test d'envoi avec putsmail
+
+petit bug avec l'image de font
+il faut qu'elle soit en png et pas en jpeg
+
+on met toujours les 2 sur le td pour aligner:
+align="center" et style="text-align:center"
+
+
+18min environ pour le line-height sur le texte
+il faut préciser avant line-height pour outlook:
+mso-line-height-rule:exactly; line-height:28px;
+
+3. Polices 18min30
+soit une web safe font
+
+soit une police google fonts mais pas supportée pas tous les navigateurs
+car on la met dans une balise link
+
+
+4. 22min création d'une autre table et donc d'un autre bloc
+
+
+5. 25min création d'un tiret 
+
+
+6. Création de trois blocs à côté
+mauvaise méthode création de plusieurs td dans un tr : pas ok, car colspan dans ce cas plus haut et donc pas pratique
+
+on crée plutot plusieurs tables dans un tr
+ici 3 tables dans un tr
+
+pour créer des espaces à droite ou à gauche on utilise les tables également
+27min
+
+
 */
