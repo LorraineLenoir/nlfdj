@@ -56,7 +56,12 @@ R130 V25 B70
 
 https://cdn.jsdelivr.net/gh/LorraineLenoir/nlfdj/nlfdj/orange.png
 
+*/
 
+
+/* 
+https://polypane.app/blog/css-breakpoints-used-by-popular-css-frameworks/
+Bootstrap
 X-Small	None	<576px
 Small	sm	≥576px
 Medium	md	≥768px
@@ -65,10 +70,13 @@ Extra large	xl	≥1200px
 Extra extra large	xxl	≥1400px
 
 
-*/
+tailwind
+sm	640px
+md	768px
+lg	1024px
+xl	1280px
+2xl	1536px
 
-
-/* 
 
 
 https://www.youtube.com/watch?v=xeNjM3miO7k&ab_channel=Grafikart.fr
